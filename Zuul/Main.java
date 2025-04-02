@@ -9,6 +9,7 @@ public class Main
 {
     // instance variables - replace the example below with your own
     private int x;
+    private int y;
 
     /**
      * Constructor for objects of class Main
@@ -17,6 +18,7 @@ public class Main
     {
         // initialise instance variables
         x = 0;
+        y = 8;
     }
 
     /**
